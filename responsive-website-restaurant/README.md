@@ -1,14 +1,11 @@
 # Responsive Restaurant Website
-## [Watch it on youtube](https://youtu.be/5RIFrZEjURA)
 ### Responsive Restaurant Website
 
-- Responsive Restaurant Website Design Using HTML CSS & JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Includes a dark & light theme.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+- Diseño de sitio web de restaurante receptivo usando HTML CSS y JavaScript
+- Contiene animaciones al hacer scroll.
+- Desplazamiento suave en cada sección.
+- Incluye un tema oscuro y claro.
+- Desarrollado primero con la metodología Mobile First, luego para escritorio.
+- Compatible con todos los dispositivos móviles y con una interfaz de usuario hermosa y agradable.
 
 ![preview img](/preview.png)
