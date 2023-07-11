@@ -7,3 +7,5 @@ Diseño de sitio web de restaurante receptivo usando HTML CSS y JavaScript Conti
 - Incluye un tema oscuro y claro.
 - Desarrollado primero con la metodología Mobile First, luego para escritorio.
 - Compatible con todos los dispositivos móviles y con una interfaz de usuario hermosa y agradable.
+
+![preview img](/preview.png)
